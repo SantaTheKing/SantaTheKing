@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="1000">
+<img src="banner (1).png" alt="Banner" width="1000">
 
 ## 🎅🏻 About Me:
 
