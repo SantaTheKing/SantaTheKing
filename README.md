@@ -1,6 +1,14 @@
-# 💫 About Me:
-👨‍💻 What I’m working on<br>I’m building my portfolio and strengthening my skills as a Data Analyst and Data Scientist. I’m also pursuing a specialization in Artificial Intelligence.<br>🤝 Looking to collaborate on<br>Projects and companies that create value for the world through data and AI tools.<br>🙋‍♂️ Looking for help with<br>Expanding my experience in real-world data science and applied AI projects.<br>📚 Currently learning<br>Machine Learning models, advanced data analysis, and visualization tools to turn information into strategic decisions.<br>💬 Ask me about<br>How data can transform organizations, productivity, and personal growth.<br>⚡ Fun fact<br>I’m the founder of a sports and personal development community that has impacted more than 2,000 people.
+# 🤵🏻‍♀️ About Me:
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right">
+
+- 👨‍💻 **Currently working on:** Building my portfolio and strengthening my skills as a **Data Analyst** and **Data Scientist**.  
+- 🎓 **Education:** Pursuing a specialization in **Artificial Intelligence**.  
+- 🤝 **Looking to collaborate on:** Projects and companies that create real value through **Data & AI**.  
+- 🙋‍♂️ **Looking for help with:** Gaining more experience in **real-world data science and AI projects**.  
+- 📚 **Currently learning:** Machine Learning models, advanced analytics, and visualization tools to turn data into strategic insights.  
+- 💬 **Ask me about:** How data can transform **organizations, productivity, and personal growth**.  
+- ⚡ **Fun fact:** I’m the founder of a sports and personal development community that has impacted more than **2,000 people**.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrosanta64/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alejosanta.a) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/alejandrosanta) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejsandro.santac@autonoma.edu.co)  
