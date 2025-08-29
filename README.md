@@ -19,11 +19,11 @@
 
 ### 🚀 Featured Projects  
 
-#### 🥑 Data Analysis – SANOYFRESCO Sales  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SantaTheKing&repo=Data-analysis-sales-sanoyfresco&theme=radical)](https://github.com/SantaTheKing/Data-analysis-sales-sanoyfresco)  
+### 🚀 Featured Projects  
 
-#### 🤖 Unsupervised Learning – K-Means Clustering  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SantaTheKing&repo=Unsupervised-Model-K-means-Clustering&theme=radical)](https://github.com/SantaTheKing/Unsupervised-Model-K-means-Clustering)  
+| 🥑 Data Analysis – SANOYFRESCO Sales | 🤖 Unsupervised Learning – K-Means Clustering |
+|--------------------------------------|-----------------------------------------------|
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SantaTheKing&repo=Data-analysis-sales-sanoyfresco&theme=radical)](https://github.com/SantaTheKing/Data-analysis-sales-sanoyfresco) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SantaTheKing&repo=Unsupervised-Model-K-means-Clustering&theme=radical)](https://github.com/SantaTheKing/Unsupervised-Model-K-means-Clustering) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SantaTheKing&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
