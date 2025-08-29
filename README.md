@@ -21,7 +21,8 @@
 
 | 🥑 Data Analysis – SANOYFRESCO Sales | 🤖 Unsupervised Learning – K-Means Clustering |
 |--------------------------------------|-----------------------------------------------|
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SantaTheKing&repo=Data-analysis-sales-sanoyfresco&theme=radical)](https://github.com/SantaTheKing/Data-analysis-sales-sanoyfresco) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SantaTheKing&repo=Unsupervised-Model-K-means-Clustering&theme=radical)](https://github.com/SantaTheKing/Unsupervised-Model-K-means-Clustering) |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SantaTheKing&repo=Data-analysis-sales-sanoyfresco&theme=radical)](https://github.com/SantaTheKing/Data-analysis-sales-sanoyfresco) <br> **Tech:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SantaTheKing&repo=Unsupervised-Model-K-means-Clustering&theme=radical)](https://github.com/SantaTheKing/Unsupervised-Model-K-means-Clustering) <br> **Tech:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SantaTheKing&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
